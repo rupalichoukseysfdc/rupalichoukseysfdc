@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi there 👋 I'm Rupali  <br><br>⚡ Salesforce Developer <br>💼 3+ years of experience delivering end-to-end CRM solutions<br><br>🔧 Tech Stack:<br>Apex • LWC • Flows • REST Integrations • Salesforce Automation<br><br>🏗️ What I Do:<br>- Automate complex sales processes<br>- Build scalable and maintainable Apex solutions<br>- Design user-friendly Lightning Web Components<br>- Integrate Salesforce with external systems<br><br>🎯 Focused on performance, scalability, and clean architecture.<br> 
+Hi there 👋 I'm Rupali  <br><br>⚡ Salesforce Developer <br>💼 Experience delivering end-to-end CRM solutions<br><br>🔧 Tech Stack:<br>Apex • LWC • Flows • REST Integrations • Salesforce Automation<br><br>🏗️ What I Do:<br>- Automate complex sales processes<br>- Build scalable and maintainable Apex solutions<br>- Design user-friendly Lightning Web Components<br>- Integrate Salesforce with external systems<br><br>🎯 Focused on performance, scalability, and clean architecture.<br> 
 
 
 Certification:
